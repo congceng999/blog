@@ -39,20 +39,14 @@
 ### JavaScript书籍
 此部分由已阅读的书籍整理而来<br/>
 
-* 你不知道的JavaScript上(已整理)
-* 你不知道的JavaScript中(已整理)
-* 你不知道的JavaScript下(已整理)
 * JavaScript高级程序设计(撰写中)
 * JavaScript语言精粹(撰写中)
 
 ### JavaScript设计模式
-此部分由书籍《JavaScript设计模式与开发实践》(曾探)阅读整理而来，已完成
 
 ### 数据结构与算法
-撰写中
 
 ### Vue.js基础知识
-此部分由 Vue 官网的相关文档加上自己撰写的案例共同而来，已完成
 
 ### Vue.js原理剖析
 此部分由书籍《深入浅出Vue.js》(刘博文)阅读整理而来，撰写中
@@ -66,8 +60,6 @@
 ### Git
 此部分内容大部分参考了廖雪峰老师的`Git`博客(详情请移步这里[廖雪峰Git博客](https://www.liaoxuefeng.com/wiki/896043488029600))，完善中
 
-### CSS奇淫技巧
-撰写中
 
 ### Node.js
 撰写中
